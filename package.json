@@ -1,0 +1,9 @@
+{
+  "name": "__TestingProject",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongodb": "latest",
+    "lodash": "latest",
+    "mongoose-fixtures": "git@github.com:devhousellc/mongoose-fixture.git"
+  }
+}
